@@ -1,0 +1,15 @@
+
+~
+java:S6437"6Revoke and change this password, as it is compromised.(‘ğŸ‘üÿÿÿÿ8Ğ¿çÈ“2J$6da1e105-e20c-4e61-9c66-2d3eb8831d83
+r	java:S1066"+Replace this use of System.out by a logger.(†¡Çâúÿÿÿÿ8¹ËÚÈ“2J$de255529-68ff-4825-9dc4-ec124a35c673
+b
+java:S6905;"Don't use the query "SELECT *".(ö°é·8»ÊàÈ“2J$f04a1c1e-1932-4bdf-b2e7-fd9ffae379a2
+r	java:S106G"+Replace this use of System.out by a logger.(ĞÅ‚íşÿÿÿÿ8¼ÊàÈ“2J$c623bea7-13d9-4910-880a-83d72d4e386d
+m	java:S106R"+Replace this use of System.out by a logger.(âû¯ø8º©âÈ“2J$72284c2f-0333-48d0-a8f2-ce8e929365f2
+m	java:S106["+Replace this use of System.out by a logger.(èêÁÇ8»©âÈ“2J$0c29f4f6-0399-4118-a1fd-0b771c1d08fc
+H
+java:S1128"+Remove this unused import 'java.sql.Array'.(Õø‹ù8ª„ôÈ“2
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8«„ôÈ“2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8«„ôÈ“2

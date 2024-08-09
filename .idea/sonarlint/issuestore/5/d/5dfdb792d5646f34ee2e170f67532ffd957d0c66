@@ -1,0 +1,17 @@
+
+}
+java:S1118":Add a private constructor to hide the implicit public one.(´å¸Ã8„Þ¦È“2J$e3fe165e-8cee-43a5-8493-e6e112958dd3
+h
+java:S1128"%Remove this unused import 'java.sql'.(´Ý…Å8š¿§È“2J$caf52f69-aa10-42ab-a720-ec8a6a91cef4
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8š¿§È“2J$8a3b313a-2a27-4b02-9232-06b79bbd6fd8
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8š¿§È“2J$26f2462f-1051-4c00-9450-a8b958f62846
+r
+java:S1068"*Remove this unused "SELECT" private field.(£ŸÜƒýÿÿÿÿ8›¿§È“2J$3e7733a1-853e-40df-9403-e5c09f22f5e8
+m
+java:S1068"*Remove this unused "INSERT" private field.(ÌÃ·²8‡Þ¦È“2J$f6e32af0-1dad-49aa-af98-84f7d26d9a25
+m
+java:S1068"*Remove this unused "UPDATE" private field.(ÎÈ‡Í8‡Þ¦È“2J$187a2721-ff87-4a0e-9124-8584f53f2c5a
+r
+java:S1068	"*Remove this unused "DELETE" private field.(øÐãÖÿÿÿÿÿ8œ¿§È“2J$f01208da-555b-44d0-bae1-6a47a0371842
